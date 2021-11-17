@@ -1,0 +1,19 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "This is a sipmle backend express js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luthfor-Rahman-Jubel/express-sample.git"
+  },
+  "author": "Jubel Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luthfor-Rahman-Jubel/express-sample/issues"
+  },
+  "homepage": "https://github.com/luthfor-Rahman-Jubel/express-sample#readme"
+}
